@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/AdvancedApps/Index",
+    "pages/AdvancedApps/GridColTest",
+    "pages/AdvancedApps/GridRowExamples",
+    "pages/AdvancedApps/BuilderParamTest",
+    "pages/AdvancedApps/ManagePageState/LocalStorageDemo",
+    "pages/AdvancedApps/ManagePageState/Page1",
+    "pages/AdvancedApps/ManagePageState/Page2",
+    "pages/AdvancedApps/ManagePageState/AppStorageDemo",
+    "pages/AdvancedApps/ManagePageState/PersistentStorageDemo",
+    "pages/AdvancedApps/ManagePageState/EnvironmentDemo",
+    "pages/AdvancedApps/ManagePageState/HttpTest",
+    "pages/AdvancedApps/Project/Hungry/Hungry",
+    "pages/AdvancedApps/Page",
+    "pages/AdvancedApps/PreferenceText/PreferencePage",
+    "pages/AdvancedApps/CanvasTest/CanvasTest",
+    "pages/AdvancedApps/NotificationPage",
+    "pages/AdvancedApps/ClockPage"
+  ]
+}
